@@ -7,8 +7,5 @@ const repeatString = function(string, num) {
     return ans;
 };
 
-console.log(repeatString('hey', 3));
-console.log(repeatString('hey', -1));
-
 // Do not edit below this line
 module.exports = repeatString;
